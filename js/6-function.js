@@ -7,3 +7,5 @@ function sumar(number1, number2) {
 console.log(sumar(10, 5));
 console.log(sumar(50, 30));
 console.log(sumar(7, 5));
+
+// Funcion Restar
